@@ -1,3 +1,6 @@
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+using CinemaApp.Data;
 namespace CinemaApp.Web
 {
     using CinemaApp.Data;
@@ -10,20 +13,14 @@ namespace CinemaApp.Web
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-            var connectionString = builder.Configuration.GetConnectionString("CinemaDev") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
+            string? connectionString = builder.Configuration.GetConnectionString("CinemaDev") ?? throw new InvalidOperationException("Connection string 'CinemaDev' not found.");
             builder.Services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(connectionString));
             builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
             builder.Services.AddDefaultIdentity<IdentityUser>(options => 
-            { 
-                options.SignIn.RequireConfirmedAccount = false;
-                options.Password.RequireDigit = false;
-                options.Password.RequireLowercase = false;
-                options.Password.RequireUppercase = false;
-                options.Password.RequireNonAlphanumeric = false;
-                options.Password.RequiredUniqueChars = 0;
-                options.Password.RequiredLength = 5;
+            {
+                ConfigureIdentity(builder.Configuration, options);
             
             })
                 .AddEntityFrameworkStores<ApplicationDbContext>();
@@ -47,8 +44,9 @@ namespace CinemaApp.Web
             app.UseStaticFiles();
 
             app.UseRouting();
-
+            app.UseAuthentication();
             app.UseAuthorization();
+           
 
             app.MapControllerRoute(
                 name: "default",
@@ -56,6 +54,27 @@ namespace CinemaApp.Web
             app.MapRazorPages();
 
             app.Run();
+        }
+        public static void ConfigureIdentity(ConfigurationManager configuration,IdentityOptions options)
+        {
+            options.SignIn.RequireConfirmedAccount = configuration
+                .GetValue<bool>("Identity:SignIn:RequireConfirmedAccount");
+            options.SignIn.RequireConfirmedEmail = configuration
+                .GetValue<bool>("Identity:SignIn:RequireConfirmedEmail");
+            options.SignIn.RequireConfirmedPhoneNumber = configuration
+                .GetValue<bool>("Identity:SignIn:RequireConfirmedPhoneNumber");
+            options.Password.RequiredUniqueChars = configuration
+                .GetValue<int>("Identity:Password:RequiredUniqueChars");
+            options.Password.RequiredLength = configuration
+                .GetValue<int>("Identity:Password:RequiredLength");
+            options.Password.RequireUppercase = configuration
+                .GetValue<bool>("Identity:Password:RequireUppercase");
+            options.Password.RequireNonAlphanumeric = configuration
+                .GetValue<bool>("Identity:Password:RequireNonAlphanumeric");
+            options.Password.RequireDigit = configuration
+                .GetValue<bool>("Identity:Password:RequireDigit");
+            options.Password.RequireLowercase = configuration
+                .GetValue<bool>("Identity:Password:RequireLowercase");
         }
     }
 }
