@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC_Media\\Desktop\\IT_Cariera_M13_2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D1A47D-9414-4ED3-8F00-0AE89D29A8F8}|CinemaApp.Data.Models\\CinemaApp.Data.Models.csproj|c:\\users\\pc_media\\desktop\\it_cariera_m13_2026\\cinemaapp.data.models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D1A47D-9414-4ED3-8F00-0AE89D29A8F8}|CinemaApp.Data.Models\\CinemaApp.Data.Models.csproj|solutionrelative:cinemaapp.data.models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\PC_Media\\Desktop\\IT_Cariera_M13_2026\\CinemaApp.Data.Models\\Movie.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Data.Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\PC_Media\\Desktop\\IT_Cariera_M13_2026\\CinemaApp.Data.Models\\Movie.cs",
+              "RelativeToolTip": "CinemaApp.Data.Models\\Movie.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:20:01.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
