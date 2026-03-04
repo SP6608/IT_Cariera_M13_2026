@@ -4020,23 +4020,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PC_Media\\.nuget\\packages\\": {},
+    "C:\\Users\\PC Home\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC_Media\\Desktop\\IT_Cariera_M13_2026\\CinemaApp.Services.Tests\\CinemaApp.Services.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_M13_2026\\CinemaApp.Services.Tests\\CinemaApp.Services.Tests.csproj",
       "projectName": "CinemaApp.Services.Tests",
-      "projectPath": "C:\\Users\\PC_Media\\Desktop\\IT_Cariera_M13_2026\\CinemaApp.Services.Tests\\CinemaApp.Services.Tests.csproj",
-      "packagesPath": "C:\\Users\\PC_Media\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC_Media\\Desktop\\IT_Cariera_M13_2026\\CinemaApp.Services.Tests\\obj\\",
+      "projectPath": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_M13_2026\\CinemaApp.Services.Tests\\CinemaApp.Services.Tests.csproj",
+      "packagesPath": "C:\\Users\\PC Home\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_M13_2026\\CinemaApp.Services.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\PC_Media\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4051,11 +4051,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\PC_Media\\Desktop\\IT_Cariera_M13_2026\\CinemaApp.Data\\CinemaApp.Data.csproj": {
-              "projectPath": "C:\\Users\\PC_Media\\Desktop\\IT_Cariera_M13_2026\\CinemaApp.Data\\CinemaApp.Data.csproj"
+            "C:\\Users\\PC Home\\Desktop\\IT_Cariera_M13_2026\\CinemaApp.Data\\CinemaApp.Data.csproj": {
+              "projectPath": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_M13_2026\\CinemaApp.Data\\CinemaApp.Data.csproj"
             },
-            "C:\\Users\\PC_Media\\Desktop\\IT_Cariera_M13_2026\\CinemaApp.Services.Core\\CinemaApp.Services.Core.csproj": {
-              "projectPath": "C:\\Users\\PC_Media\\Desktop\\IT_Cariera_M13_2026\\CinemaApp.Services.Core\\CinemaApp.Services.Core.csproj"
+            "C:\\Users\\PC Home\\Desktop\\IT_Cariera_M13_2026\\CinemaApp.Services.Core\\CinemaApp.Services.Core.csproj": {
+              "projectPath": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_M13_2026\\CinemaApp.Services.Core\\CinemaApp.Services.Core.csproj"
             }
           }
         }

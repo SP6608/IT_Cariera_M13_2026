@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "JcdrIYk3V7k=",
+  "dgSpecHash": "o+1D+Esu5/s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC_Media\\Desktop\\IT_Cariera_M13_2026\\CinemaApp.Services.AutoMapping\\CinemaApp.Services.AutoMapping.csproj",
+  "projectFilePath": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_M13_2026\\CinemaApp.Services.AutoMapping\\CinemaApp.Services.AutoMapping.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\PC_Media\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
-    "C:\\Users\\PC_Media\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
-    "C:\\Users\\PC_Media\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
-    "C:\\Users\\PC_Media\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+    "C:\\Users\\PC Home\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
+    "C:\\Users\\PC Home\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\PC Home\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\PC Home\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

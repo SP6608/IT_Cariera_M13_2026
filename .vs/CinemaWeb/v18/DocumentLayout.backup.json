@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PC_Media\\Desktop\\IT_Cariera_M13_2026\\",
+  "WorkspaceRootPath": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_M13_2026\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC_Media\\Desktop\\IT_Cariera_M13_2026\\CinemaApp\\Migrations\\20260304144412_CreateDatabaseAndMovieTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CinemaApp\\Migrations\\20260304144412_CreateDatabaseAndMovieTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC Home\\Desktop\\IT_Cariera_M13_2026\\CinemaApp\\Migrations\\20260304175354_CreateHomeDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CinemaApp\\Migrations\\20260304175354_CreateHomeDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20260304144412_CreateDatabaseAndMovieTable.cs",
-              "DocumentMoniker": "C:\\Users\\PC_Media\\Desktop\\IT_Cariera_M13_2026\\CinemaApp\\Migrations\\20260304144412_CreateDatabaseAndMovieTable.cs",
-              "RelativeDocumentMoniker": "CinemaApp\\Migrations\\20260304144412_CreateDatabaseAndMovieTable.cs",
-              "ToolTip": "C:\\Users\\PC_Media\\Desktop\\IT_Cariera_M13_2026\\CinemaApp\\Migrations\\20260304144412_CreateDatabaseAndMovieTable.cs",
-              "RelativeToolTip": "CinemaApp\\Migrations\\20260304144412_CreateDatabaseAndMovieTable.cs",
+              "Title": "20260304175354_CreateHomeDb.cs",
+              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_M13_2026\\CinemaApp\\Migrations\\20260304175354_CreateHomeDb.cs",
+              "RelativeDocumentMoniker": "CinemaApp\\Migrations\\20260304175354_CreateHomeDb.cs",
+              "ToolTip": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_M13_2026\\CinemaApp\\Migrations\\20260304175354_CreateHomeDb.cs",
+              "RelativeToolTip": "CinemaApp\\Migrations\\20260304175354_CreateHomeDb.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T14:44:12.767Z",
+              "WhenOpened": "2026-03-04T17:53:54.974Z",
               "EditorCaption": ""
             }
           ]
