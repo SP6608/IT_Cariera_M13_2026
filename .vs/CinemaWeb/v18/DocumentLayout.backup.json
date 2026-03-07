@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_M13_2026\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC Home\\Desktop\\IT_Cariera_M13_2026\\CinemaApp\\Migrations\\20260305203328_Second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CinemaApp\\Migrations\\20260305203328_Second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{737FCBAF-0C43-442A-8766-DED1901E84B0}|CinemaApp.Data\\CinemaApp.Data.csproj|c:\\users\\pc home\\desktop\\it_cariera_m13_2026\\cinemaapp.data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737FCBAF-0C43-442A-8766-DED1901E84B0}|CinemaApp.Data\\CinemaApp.Data.csproj|solutionrelative:cinemaapp.data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737FCBAF-0C43-442A-8766-DED1901E84B0}|CinemaApp.Data\\CinemaApp.Data.csproj|c:\\users\\pc home\\desktop\\it_cariera_m13_2026\\cinemaapp.data\\movieconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737FCBAF-0C43-442A-8766-DED1901E84B0}|CinemaApp.Data\\CinemaApp.Data.csproj|solutionrelative:cinemaapp.data\\movieconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{737FCBAF-0C43-442A-8766-DED1901E84B0}|CinemaApp.Data\\CinemaApp.Data.csproj|c:\\users\\pc home\\desktop\\it_cariera_m13_2026\\cinemaapp.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{737FCBAF-0C43-442A-8766-DED1901E84B0}|CinemaApp.Data\\CinemaApp.Data.csproj|solutionrelative:cinemaapp.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC Home\\Desktop\\IT_Cariera_M13_2026\\CinemaApp\\Migrations\\20260305203035_CreateDbAndSeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CinemaApp\\Migrations\\20260305203035_CreateDbAndSeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|c:\\users\\pc home\\desktop\\it_cariera_m13_2026\\cinemaapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -26,49 +26,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20260305203328_Second.cs",
-              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_M13_2026\\CinemaApp\\Migrations\\20260305203328_Second.cs",
-              "RelativeDocumentMoniker": "CinemaApp\\Migrations\\20260305203328_Second.cs",
-              "ToolTip": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_M13_2026\\CinemaApp\\Migrations\\20260305203328_Second.cs",
-              "RelativeToolTip": "CinemaApp\\Migrations\\20260305203328_Second.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T20:33:28.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_M13_2026\\CinemaApp.Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "CinemaApp.Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_M13_2026\\CinemaApp.Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "CinemaApp.Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T20:32:29.352Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20260305203035_CreateDbAndSeed.cs",
-              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_M13_2026\\CinemaApp\\Migrations\\20260305203035_CreateDbAndSeed.cs",
-              "RelativeDocumentMoniker": "CinemaApp\\Migrations\\20260305203035_CreateDbAndSeed.cs",
-              "ToolTip": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_M13_2026\\CinemaApp\\Migrations\\20260305203035_CreateDbAndSeed.cs",
-              "RelativeToolTip": "CinemaApp\\Migrations\\20260305203035_CreateDbAndSeed.cs",
-              "ViewState": "AgIAAMsAAAAAAAAAAAAuwOAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_M13_2026\\CinemaApp.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_M13_2026\\CinemaApp.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs*",
+              "RelativeToolTip": "CinemaApp.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs*",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAuwBgBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T20:30:35.725Z",
+              "WhenOpened": "2026-03-05T21:01:15.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_M13_2026\\CinemaApp.Data\\MovieConfiguration.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Data\\MovieConfiguration.cs",
+              "ToolTip": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_M13_2026\\CinemaApp.Data\\MovieConfiguration.cs",
+              "RelativeToolTip": "CinemaApp.Data\\MovieConfiguration.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAAuwOwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T20:48:26.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_M13_2026\\CinemaApp.Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_M13_2026\\CinemaApp.Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CinemaApp.Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T20:32:29.352Z",
               "EditorCaption": ""
             },
             {
@@ -81,8 +81,7 @@
               "RelativeToolTip": "CinemaApp\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-05T20:29:49.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T20:29:49.152Z"
             }
           ]
         }
